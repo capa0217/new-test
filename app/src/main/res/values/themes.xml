@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AiLedger" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#F2F2F7</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
